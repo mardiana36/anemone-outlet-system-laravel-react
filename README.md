@@ -210,7 +210,6 @@ Fitur:
 * Database transaction saat create order
 * Seeder dummy data
 * Middleware role check
-* Pagination (optional)
 
 ---
 
