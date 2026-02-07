@@ -147,6 +147,8 @@ Fitur:
 * Buat pesanan baru
 * Lihat history pesanan
 
+Akun juga telah disediakan pada halaman login tinggal klik atau memilih jenis akun yang ingin digunakan untuk login ke dalam sistem (HO atau Outlet).
+
 ---
 
 ## API Endpoints
