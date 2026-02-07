@@ -85,7 +85,20 @@ Buka terminal baru:
 
 ```
 cd frontend
+cp .env.example .env
 npm install
+```
+
+Konfigurasi url API backend pada `.env`:
+
+```
+REACT_APP_API_URL=http://localhost:8000/api
+REACT_APP_NAME="Anemone Outlet System"
+```
+
+Menjalankan server frondend:
+
+```
 npm start
 ```
 
